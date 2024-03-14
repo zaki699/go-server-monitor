@@ -1,0 +1,16 @@
+server:
+  port: 5002
+
+database:
+  dbname: "live_encoding"
+  dbuser: "root"
+  dbpassword: "MiCrO@13080923011984"
+  dbhost: "localhost"
+  dbport: "3306"
+
+secure:
+  hash: Vxx6b6xGiK6fRKT1pSxLPWzUthuLZsYyZsru1LOlEiVGrzhWyChHHNsvrJ1ObfDL0WKU0kzMdtX79mEuYsQHllpeDFvmrHAzV0aCx997zVTYFIRMhDmbxCLNvNuzJi0h
+
+cron:
+  interval: 5
+  aggregatedinterval: 5
